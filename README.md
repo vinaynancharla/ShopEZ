@@ -41,7 +41,7 @@ node index.js
 Start the client:
 npm start
 
-📈 Future Enhancements
+📈 Future Enhancements:
 React Native mobile app
 Seller analytics dashboard
 Delivery tracking system
